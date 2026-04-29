@@ -1,6 +1,6 @@
 <!-- Banner Principal -->
 <p align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=180&section=header&text=👋%20Hi%20I'm%20Juan%20Carlos%20|%20Backend%20%26%20Systems%20Student&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=35](https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=180&section=header&text=%F0%9F%91%8B%20Hi%20I%27m%20Juan%20Supelano%20|%20Backend%20%20Systems%20Student&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=35)"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=180&section=header&text=%F0%9F%91%8B%20Hi%20I%27m%20Juan%20Supelano%20|%20Backend%20%20Systems%20Student&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 </p>
 
 <!-- Typing Animation -->
