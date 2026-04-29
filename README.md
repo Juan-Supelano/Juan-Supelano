@@ -1,6 +1,6 @@
 <!-- Banner Principal -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=180&section=header&text=👋%20Hi%20I'm%20Juan%20Carlos%20|%20Backend%20%26%20Systems%20Student&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+  <img src="[https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=180&section=header&text=👋%20Hi%20I'm%20Juan%20Carlos%20|%20Backend%20%26%20Systems%20Student&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=35](https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=180&section=header&text=%F0%9F%91%8B%20Hi%20I%27m%20Juan%20Supelano%20|%20Backend%20%20Systems%20Student&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=35)"/>
 </p>
 
 <!-- Typing Animation -->
@@ -19,37 +19,37 @@
 
 ### 🇬🇧 English
 I'm a **Technologist in Systems Analysis and Development** and currently studying for my **professional degree in Systems**.  
-I have experience from the **Chamber of Commerce of Bogotá**, where I strengthened my skills in support, problem-solving, and service management. I also worked for **6 months in a call center**, selling gas appliance maintenance services, which improved my communication, customer service, and goal-oriented mindset.
+I have experience from the **Chamber of Commerce of Bogotá**, where I strengthened my skills in support, problem-solving, and service management. 
 
-I have also worked on **API projects** and **Edupondera**, building practical experience in software development and teamwork.  
-My interests are focused on **backend development, APIs, Docker, and learning new technologies**. I enjoy exploring programming languages, platforms, and environments that help me grow professionally and contribute to real solutions.
+I enjoy working with Node.js, Express, PostgreSQL, and React, creating solid API architectures and seamless integrations.
+My passion lies in designing systems that solve real-world problems while maintaining clean, maintainable code.
 
 ---
 
 ### 🇪🇸 Español
 Soy **tecnólogo en Análisis y Desarrollo de Sistemas de Información** y actualmente estudio mi **carrera profesional en Sistemas**.  
-Cuento con experiencia en la **Cámara de Comercio de Bogotá**, donde fortalecí habilidades en soporte, resolución de problemas y gestión de servicios. Además, trabajé durante **6 meses en call center**, vendiendo servicios de mantenimiento de gasodomésticos, lo que reforzó mi comunicación, atención al cliente y enfoque en resultados.
+Cuento con experiencia en la **Cámara de Comercio de Bogotá**, donde fortalecí habilidades en soporte, resolución de problemas y gestión de servicios. 
 
-También he participado en **proyectos de APIs** y en **Edupondera**, lo que me permitió ganar experiencia práctica en desarrollo de software y trabajo en equipo.  
-Mis intereses están orientados al **backend, las APIs, Docker y el aprendizaje de nuevas tecnologías**. Me gusta explorar lenguajes, entornos y plataformas que me permitan seguir creciendo profesionalmente y aportar soluciones reales.
+Disfruto trabajar con Node.js, Express, PostgreSQL y React, desarrollando arquitecturas API robustas e integraciones fluidas.
+Me apasiona diseñar sistemas que resuelvan problemas reales, aplicando buenas prácticas de código limpio y mantenible.
 
 ---
 
 ## 📫 Connect With Me | Contáctame
 <p align="center">
-  <a href="https://www.linkedin.com/in/daniel-leon-8774232ab" target="_blank">
+  <a href="https://www.linkedin.com/in/juan-supelano/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:danielarevalodev2005@gmail.com" target="_blank">
+  <a href="mailto:Juansupelano64@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/DaniArevalo12" target="_blank">
+  <a href="https://github.com/Juan-Supelano" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 🚀 *Si el botón de Gmail no funciona, puedes escribirme directamente a:*  
-📧 **danielarevalodev2005@gmail.com**
+📧 **Juansupelano64@gmail.com**
 
 ---
 
@@ -94,7 +94,7 @@ Mis intereses están orientados al **backend, las APIs, Docker y el aprendizaje 
 
 ## ✨ Highlights | Logros
 - ⚙️ Experiencia en **soporte técnico**, resolución de incidencias y mesa de ayuda.
-- 🚀 Participación en **proyectos de APIs** y en **Edupondera**.
+- 🚀 Participación en **proyectos de APIs** y en desarrollo.
 - ☁️ Interés en **backend, Docker y despliegue de aplicaciones**.
 - 🧠 Aprendizaje rápido, responsabilidad y adaptación a nuevos entornos.
 - 💬 Sólidas habilidades de comunicación, liderazgo y trabajo en equipo.
@@ -108,7 +108,6 @@ Mis intereses están orientados al **backend, las APIs, Docker y el aprendizaje 
 | [📚 API U Libertadores](https://github.com/DaniArevalo12/Api_U_libertadores) | API REST para gestión académica con autenticación y CRUD completo. | Node.js, Express, PostgreSQL |
 | [🧩 Edupondera React Web](https://github.com/DaniArevalo12/edupondera_ReactWeb) | Plataforma web desarrollada en equipo para apoyar procesos educativos. | React, Node.js |
 | [📱 Edupondera React Native](https://github.com/DaniArevalo12/edupondera_ReactNative) | Aplicación móvil multiplataforma enfocada en gestión educativa. | React Native, Expo |
-| [🎵 Alvarito Díaz WebSite](https://github.com/DaniArevalo12/Alvarito_DiazWebSite) | Sitio web responsivo con enfoque visual y experiencia de usuario. | React, JavaScript, CSS |
 
 ---
 
